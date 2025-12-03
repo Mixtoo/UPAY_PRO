@@ -43,19 +43,11 @@ YouTube：https://youtu.be/-jsk6_KKUy4
 
 - 初始账号密码：在日志文件中，直接查看即可，保存后可以删除日志记录
 
-<a href="https://huojian.iosapp.icu/buy/6" style="
-    display: inline-block;
-    padding: 10px 25px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    color: white;
-    text-decoration: none;
-    border-radius: 20px;
-    font-weight: bold;
-    font-family: Arial, sans-serif;
-    target: _blank;
-">
-代搭建下单
-</a>
+<pre>
+🛒 <b>代搭建下单链接</b>  
+🔗 <a href="https://huojian.iosapp.icu/buy/6" target="_blank">点击这里立即下单</a> 
+
+</pre>
 
 ### 插件
 
